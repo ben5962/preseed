@@ -4,4 +4,4 @@ installation automatisée de debian minimale + paperwork (numérisation de docs)
 
 
 ajouter à la ligne de commande:
-install auto=true priority=critical preseed/url=https://github.com/ben5962/preseed/blob/master/preseed.cfg
+install auto=true priority=critical preseed/url=#ajouter à la ligne de commande: install auto=true priority=critical preseed/url=http:pouet.eu.pn/preseed.cfg
